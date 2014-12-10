@@ -1,0 +1,8 @@
+{
+    "name": "kcko/xichty",
+    "description" : "xichty - jen test",
+    	"require": {
+              "php": ">= 5.3.7",
+              "kcko/hokusy": "1.5.5-RC"
+              }
+}

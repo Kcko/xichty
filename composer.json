@@ -3,6 +3,6 @@
     "description" : "xichty - jen test",
     	"require": {
               "php": ">= 5.3.7",
-              "kcko/pokusy": "2.1.8-RC"
+              "kcko/pokusy": "21.0.0"
               }
 }
